@@ -2951,6 +2951,11 @@
   ],
   "title": "Mexico City",
   "description": "Spending information for the central government of Mexico City.",
+  "countryCode": "MX",
+  "fiscalPeriod": {
+    "start": "2018-01-01",
+    "end": "2021-12-31"
+  },
   "tags": [
     "state"
   ],
